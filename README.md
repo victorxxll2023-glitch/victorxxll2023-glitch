@@ -75,12 +75,12 @@ $ cat objetivo.txt
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=victorxxll2023-glitch&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=ffffff" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorxxll2023-glitch&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=ffffff" alt="langs"/>
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=victorxxll2023-glitch&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=ffffff&cache_seconds=86400" alt="stats"/>
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=victorxxll2023-glitch&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=ffffff&cache_seconds=86400" alt="langs"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=victorxxll2023-glitch&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=ffffff&dates=888888&stroke=00FF9C&sideNums=ffffff&currStreakNum=ffffff" alt="streak"/>
+<img src="https://streak-stats.demolab.com?user=victorxxll2023-glitch&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=ffffff&dates=888888&stroke=00FF9C&sideNums=ffffff&currStreakNum=ffffff&cache_seconds=86400" alt="streak"/>
 
 <br/>
 
