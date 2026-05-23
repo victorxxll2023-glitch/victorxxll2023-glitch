@@ -79,18 +79,28 @@ próximo_passo:
 
 ### Stack
 
-<img src="https://skillicons.dev/icons?i=linux,bash,python,js,git,html,css,vscode&theme=dark&perline=4" alt="stack"/>
+<p>
+<img alt="Linux"      src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=00FF9C"/>
+<img alt="Bash"       src="https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=00FF9C"/>
+<img alt="Python"     src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00FF9C"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/JS-0D1117?style=for-the-badge&logo=javascript&logoColor=00FF9C"/>
+<img alt="Git"        src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00FF9C"/>
+<img alt="VS Code"    src="https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=00FF9C"/>
+</p>
 
-**Ferramentas de defesa**
-- 🔍 Nmap · Wireshark
-- 📊 journalctl · syslog
-- 🛡️ SIEM *(em estudo)*
-- 🐍 Python para automação
+```yaml
+defesa_e_monitoramento:
+  - Nmap
+  - Wireshark
+  - journalctl
+  - syslog
 
-**Em estudo**
-- Splunk · Elastic
-- MITRE ATT&CK
-- Threat hunting
+em_estudo:
+  - Splunk
+  - Elastic
+  - MITRE ATT&CK
+  - Threat hunting
+```
 
 </td>
 </tr>
