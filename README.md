@@ -1,10 +1,12 @@
-<!-- BANNER -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--             BANNER · TYPING · PROFILE VIEWS                 -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Victor%20Hugo&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Seguran%C3%A7a%20da%20Informa%C3%A7%C3%A3o%20%7C%20Blue%20Team%20%2F%20SOC&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=210&section=header&text=Victor%20Hugo&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Blue%20Team%20%C2%B7%20SOC%20%C2%B7%20Defensive%20Security&descAlignY=58&descSize=18&descColor=00FF9C" width="100%" alt=""/>
 
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00FF9C&center=true&vCenter=true&width=620&lines=Estudante+de+ADS+em+transi%C3%A7%C3%A3o+para+Seguran%C3%A7a;Aspirante+a+Analista+Blue+Team+%2F+SOC;Defesa+%E2%80%A2+Monitoramento+%E2%80%A2+Resposta+a+Incidentes" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=720&lines=Estudante+de+ADS+em+transi%C3%A7%C3%A3o+para+Seguran%C3%A7a;Aspirante+a+Analista+Blue+Team+%2F+SOC;Defesa+%E2%80%A2+Monitoramento+%E2%80%A2+Resposta+a+Incidentes;Aprendendo+SIEM%2C+an%C3%A1lise+de+logs+e+triagem;%24+sudo+systemctl+start+cybersec.target" alt="typing" />
 
 <br/>
 
@@ -12,9 +14,22 @@
 
 </div>
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                      STATUS BAR                              -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img alt="status"   src="https://img.shields.io/badge/STATUS-ONLINE-00FF9C?style=for-the-badge&labelColor=0D1117"/>
+<img alt="focus"    src="https://img.shields.io/badge/FOCO-BLUE_TEAM-00FF9C?style=for-the-badge&labelColor=0D1117"/>
+<img alt="location" src="https://img.shields.io/badge/LOCAL-BRASIL-00FF9C?style=for-the-badge&labelColor=0D1117"/>
+<img alt="hire"     src="https://img.shields.io/badge/DISPON%C3%8DVEL-EST%C3%81GIO-00FF9C?style=for-the-badge&labelColor=0D1117"/>
+
+</div>
+
 ---
 
-## 🛡️ Sobre mim
+## > sobre
 
 ```bash
 $ quem-sou-eu
@@ -32,52 +47,88 @@ $ ler objetivo.txt
 
 ---
 
-## 🎯 No que estou focado
+## > foco · stack
 
-<div align="center">
+<table>
+<tr>
+<td valign="top" width="50%">
 
-| Área | Foco atual |
-|------|-----------|
-| 🔐 **Fundamentos** | Tríade CIA · Tipos de ameaças |
-| 📊 **Gestão de Riscos** | ISO 31000 · Matrizes de risco |
-| 🌐 **Redes** | TCP/IP · Nmap |
-| 🐧 **Sistemas** | Linux · Windows |
-| 🔎 **Próximo passo** | Análise de logs · SIEM · Triagem de alertas |
+### Foco atual
 
-</div>
+```yaml
+fundamentos:
+  - Tríade CIA
+  - Modelagem de ameaças
+gestão_de_riscos:
+  - ISO 31000
+  - Matrizes de risco
+redes:
+  - TCP/IP
+  - Nmap
+sistemas:
+  - Linux
+  - Windows
+próximo_passo:
+  - Análise de logs
+  - SIEM
+  - Triagem de alertas
+```
+
+</td>
+<td valign="top" width="50%">
+
+### Stack
+
+<img src="https://skillicons.dev/icons?i=linux,bash,python,js,git,html,css,vscode&theme=dark&perline=4" alt="stack"/>
+
+**Ferramentas de defesa**
+- 🔍 Nmap · Wireshark
+- 📊 journalctl · syslog
+- 🛡️ SIEM *(em estudo)*
+- 🐍 Python para automação
+
+**Em estudo**
+- Splunk · Elastic
+- MITRE ATT&CK
+- Threat hunting
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧰 Stack & Ferramentas
+## > em destaque
 
-<div align="center">
-
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=00FF9C)
-![Nmap](https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&logo=gnu&logoColor=00FF9C)
-![Wireshark](https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=00FF9C)
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00FF9C)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00FF9C)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00FF9C)
-![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=00FF9C)
-
-</div>
+- 🍽️ **Sistema de Controle de Refeições (CECAN)** — Digitalização de um processo 100% manual, reduzindo o tempo de operação em **~87%** e atendendo **mais de 350 funcionários**. Inclui autenticação e controle de acesso. *(repositório privado — contém dados sensíveis)*
+- 🛡️ **[security-writeups](https://github.com/victorxxll2023-glitch/security-writeups)** — write-ups dos meus laboratórios de defesa cibernética *(em construção)*
+- 🎣 **[desafio-phishing-dio](https://github.com/victorxxll2023-glitch/desafio-phishing-dio)** — análise prática de phishing (Bootcamp DIO)
 
 ---
 
-## 📂 Em destaque
-
-- 🍽️ **Sistema de Controle de Refeições** — Digitalização de um processo 100% manual, reduzindo o tempo de operação em **~87%** e atendendo **mais de 350 funcionários**. Inclui autenticação e controle de acesso. *(repositório privado — contém dados sensíveis)*
-- 🧪 **Projeto de segurança (Blue Team)** — *em desenvolvimento; write-ups dos meus labs virão aqui em breve.*
-
----
-
-## 📈 Estatísticas
+## > atividade
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=victorxxll2023-glitch&locale=pt_BR&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=ffffff&dates=888888&stroke=00FF9C&sideNums=ffffff&currStreakNum=ffffff&cache_seconds=86400" alt="streak"/>
 
-<br/>
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=victorxxll2023-glitch&bg_color=0D1117&color=00FF9C&line=00FF9C&point=ffffff&area=true&hide_border=true&radius=12&custom_title=Contribui%C3%A7%C3%B5es%20%C2%B7%20%C3%BAltimos%2031%20dias" alt="activity graph"/>
+
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/victorxxll2023-glitch/victorxxll2023-glitch/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/victorxxll2023-glitch/victorxxll2023-glitch/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/victorxxll2023-glitch/victorxxll2023-glitch/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+---
+
+## > trophies
+
+<div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=victorxxll2023-glitch&theme=darkhub&no-frame=true&column=7&margin-w=4" alt="trophies"/>
 
@@ -85,17 +136,29 @@ $ ler objetivo.txt
 
 ---
 
-## 📫 Contato
+## > filosofia
+
+> *"Segurança é um processo, não um produto."*  
+> — **Bruce Schneier**
+
+---
+
+## > contato
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1200&color=00FF9C&center=true&vCenter=true&width=720&lines=%24+contatar+--via+linkedin+ou+email" alt="contact prompt"/>
+
+<br/><br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-hugo-053686306)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorxxll2023@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/victorxxll2023-glitch)
 
 </div>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%" alt=""/>
 
 </div>
