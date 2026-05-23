@@ -17,16 +17,16 @@
 ## 🛡️ Sobre mim
 
 ```bash
-$ whoami
+$ quem-sou-eu
 > Victor Hugo Justino da Silva
 
-$ cat perfil.txt
+$ ler perfil.txt
 > Estudante de Análise e Desenvolvimento de Sistemas (ADS),
 > em transição para a área de Segurança da Informação.
 > Foco: defesa cibernética (Blue Team) e operações de segurança (SOC).
 > Mentalidade: entender o sistema por dentro para aprender a protegê-lo.
 
-$ cat objetivo.txt
+$ ler objetivo.txt
 > Conquistar um estágio em Segurança da Informação (Blue Team / SOC).
 ```
 
@@ -75,12 +75,7 @@ $ cat objetivo.txt
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=victorxxll2023-glitch&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=ffffff&cache_seconds=86400" alt="stats"/>
-<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=victorxxll2023-glitch&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=ffffff&cache_seconds=86400" alt="langs"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=victorxxll2023-glitch&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=ffffff&dates=888888&stroke=00FF9C&sideNums=ffffff&currStreakNum=ffffff&cache_seconds=86400" alt="streak"/>
+<img src="https://streak-stats.demolab.com?user=victorxxll2023-glitch&locale=pt_BR&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=ffffff&dates=888888&stroke=00FF9C&sideNums=ffffff&currStreakNum=ffffff&cache_seconds=86400" alt="streak"/>
 
 <br/>
 
