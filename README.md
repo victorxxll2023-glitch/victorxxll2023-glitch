@@ -130,16 +130,6 @@ em_estudo:
 
 ---
 
-## > trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=victorxxll2023-glitch&theme=darkhub&no-frame=true&column=7&margin-w=4" alt="trophies"/>
-
-</div>
-
----
-
 ## > filosofia
 
 > *"Segurança é um processo, não um produto."*  
