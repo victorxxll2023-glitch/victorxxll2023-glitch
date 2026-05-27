@@ -103,9 +103,10 @@ em_estudo:
 
 ## > em destaque
 
-- 🍽️ **Sistema de Controle de Refeições (CECAN)** — Digitalização de um processo 100% manual, reduzindo o tempo de operação em **~87%** e atendendo **mais de 350 funcionários**. Inclui autenticação e controle de acesso. *(repositório privado — contém dados sensíveis)*
-- 🛡️ **[security-writeups](https://github.com/victorxxll2023-glitch/security-writeups)** — write-ups dos meus laboratórios de defesa cibernética *(em construção)*
+- 🛡️ **[Trilha CyberSec — Guia Interativo de Cibersegurança](https://victorxxll2023-glitch.github.io/cybersecurity-interactive-guide/)** — guia de estudo interativo em português que vai do mindset aos ataques avançados, com **7 trilhas e 130+ conceitos**: fundamentos, redes, recon/OSINT, ferramentas, ataques, **defesa / Blue Team** e tópicos avançados. Inclui **gerador de comandos** (Nmap, Hydra, sqlmap, gobuster…), **quiz**, **roteiro de labs** (TryHackMe / HTB), **dossiê do alvo** e diagramas. Feito em **HTML/CSS/JS puro** (sem framework) e publicado no **GitHub Pages**. *100% educacional e defensivo.* → [código-fonte](https://github.com/victorxxll2023-glitch/cybersecurity-interactive-guide)
 - 🎣 **[desafio-phishing-dio](https://github.com/victorxxll2023-glitch/desafio-phishing-dio)** — análise prática de phishing (Bootcamp DIO)
+- 🛡️ **[security-writeups](https://github.com/victorxxll2023-glitch/security-writeups)** — write-ups dos meus laboratórios de defesa cibernética *(em construção)*
+- 🍽️ **Sistema de Controle de Refeições (CECAN)** — Digitalização de um processo 100% manual, reduzindo o tempo de operação em **~87%** e atendendo **mais de 350 funcionários**. Inclui autenticação e controle de acesso. *(repositório privado — contém dados sensíveis)*
 
 ---
 
