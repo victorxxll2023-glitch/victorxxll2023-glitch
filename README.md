@@ -103,6 +103,7 @@ em_estudo:
 
 ## > em destaque
 
+- 🧭 **[Trilha CyberSec — Guia Interativo](https://github.com/victorxxll2023-glitch/cybersecurity-interactive-guide)** — guia interativo de cibersegurança em PT-BR (HTML/CSS/JS puro): 7 trilhas, 130+ conceitos, gerador de comandos, quiz e roteiro de labs. 100% educacional e defensivo. **[🔗 demo ao vivo](https://victorxxll2023-glitch.github.io/cybersecurity-interactive-guide/)**
 - 🍽️ **Sistema de Controle de Refeições (CECAN)** — Digitalização de um processo 100% manual, reduzindo o tempo de operação em **~87%** e atendendo **mais de 350 funcionários**. Inclui autenticação e controle de acesso. *(repositório privado — contém dados sensíveis)*
 - 🛡️ **[security-writeups](https://github.com/victorxxll2023-glitch/security-writeups)** — write-ups dos meus laboratórios de defesa cibernética *(em construção)*
 - 🎣 **[desafio-phishing-dio](https://github.com/victorxxll2023-glitch/desafio-phishing-dio)** — análise prática de phishing (Bootcamp DIO)
