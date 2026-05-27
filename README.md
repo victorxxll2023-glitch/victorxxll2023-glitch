@@ -6,6 +6,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=210&section=header&text=Victor%20Hugo&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Blue%20Team%20%C2%B7%20SOC%20%C2%B7%20Defensive%20Security&descAlignY=58&descSize=18&descColor=00FF9C" width="100%" alt=""/>
 
+<h1>Victor Hugo Justino da Silva</h1>
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=720&lines=Estudante+de+ADS+em+transi%C3%A7%C3%A3o+para+Seguran%C3%A7a;Aspirante+a+Analista+Blue+Team+%2F+SOC;Defesa+%E2%80%A2+Monitoramento+%E2%80%A2+Resposta+a+Incidentes;Aprendendo+SIEM%2C+an%C3%A1lise+de+logs+e+triagem;%24+sudo+systemctl+start+cybersec.target" alt="typing" />
 
 <br/>
