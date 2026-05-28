@@ -216,10 +216,6 @@ Anotações e write-ups dos meus laboratórios: triagem de alertas, análise de 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=victorxxll2023-glitch&bg_color=0D1117&color=38bdf8&line=a855f7&point=ffffff&area=true&hide_border=true&radius=12&custom_title=Contribui%C3%A7%C3%B5es%20%C2%B7%20%C3%BAltimos%2031%20dias" alt="activity graph"/>
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=victorxxll2023-glitch&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="trophies"/>
-
 </div>
 
 <picture>
